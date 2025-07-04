@@ -1,0 +1,18 @@
+2025-07-03 15:30:24,107 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-03 15:30:25,845 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:30:25,845 - INFO - Total Time Taken: 0.03341539303461711 minutes
+2025-07-03 15:30:26,155 - INFO - Ingestingend_inventory.csv in db
+2025-07-03 15:30:28,551 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:30:28,552 - INFO - Total Time Taken: 0.07850261926651 minutes
+2025-07-03 15:30:32,332 - INFO - Ingestingpurchases.csv in db
+2025-07-03 15:31:09,172 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:31:09,174 - INFO - Total Time Taken: 0.7555341402689616 minutes
+2025-07-03 15:31:09,255 - INFO - Ingestingpurchase_prices.csv in db
+2025-07-03 15:31:09,410 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:31:09,410 - INFO - Total Time Taken: 0.7594878832499187 minutes
+2025-07-03 15:31:26,750 - INFO - Ingestingsales.csv in db
+2025-07-03 15:35:07,290 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:35:07,290 - INFO - Total Time Taken: 4.724155362447103 minutes
+2025-07-03 15:35:07,555 - INFO - Ingestingvendor_invoice.csv in db
+2025-07-03 15:35:07,644 - INFO - ---------------Ingestion Complete---------------
+2025-07-03 15:35:07,645 - INFO - Total Time Taken: 4.730065659681956 minutes
