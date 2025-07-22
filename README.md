@@ -1,5 +1,6 @@
 # Vendor Performance Analysis
 Python (Pandas, SQLite3, SciPy), Power BI, SQL
+
 ### This project transformed raw data into a profit-optimization blueprint: rebalancing vendor partnerships, unlocking inventory capital, and aligning pricing with market demand. The result? A scalable framework for sustainable profitability.
 
 
