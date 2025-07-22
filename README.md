@@ -1,6 +1,8 @@
 # Vendor Performance Analysis
 Python (Pandas, SQLite3, SciPy), Power BI, SQL
 
+![image alt](https://github.com/Rishabh90501/Vendor-Performance/blob/5232074dc906bc4de452119862d565343afdef29/Screenshot%202025-07-19%20015903.png)
+
 ### This project transformed raw data into a profit-optimization blueprint: rebalancing vendor partnerships, unlocking inventory capital, and aligning pricing with market demand. The result? A scalable framework for sustainable profitability.
 
 
